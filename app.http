@@ -1,0 +1,8 @@
+
+GET http://localhost:3009/players/
+
+###
+
+GET https://localhost:3009/players/
+
+###
